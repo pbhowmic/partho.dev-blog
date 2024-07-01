@@ -20,6 +20,7 @@ jobs:
       - run: python3 -m pip install --upgrade pipenv wheel
       - run: pipenv install
       - run: pipenv run mkdocs build
+      - run: npm ci && npm run build
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
