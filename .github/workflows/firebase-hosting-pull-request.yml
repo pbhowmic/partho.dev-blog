@@ -17,9 +17,8 @@ jobs:
         with:
           python-version: '3.12'
           cache: "pipenv"
-      - run: |
-          python3 -m pip install --upgrade pipenv wheel
-          pipenv install
+      - run: python3 -m pip install --upgrade pipenv wheel
+      - run: pipenv install
       - run: mkdocs build
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
