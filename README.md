@@ -1,2 +1,4 @@
-# partgho.dev-blog
+# Partho's dev blog
 The blog site for partho.dev
+
+

@@ -1,0 +1,5 @@
+site_name: Partho's Blog
+nav:
+  - Home: 'index.md'
+watch:
+  - docs/kubectl
