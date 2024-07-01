@@ -19,7 +19,7 @@ jobs:
           cache: "pipenv"
       - run: python3 -m pip install --upgrade pipenv wheel
       - run: pipenv install
-      - run: mkdocs build
+      - run: pipenv run mkdocs build
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
