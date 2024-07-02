@@ -1,5 +1,6 @@
 site_name: Partho's Blog
 nav:
   - Home: 'index.md'
+  - "kubectl for devs": 'kubectl/kubectl-list.md'
 watch:
   - docs/kubectl
