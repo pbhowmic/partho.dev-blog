@@ -1,6 +1,20 @@
+---
+date: 2024-07-01
+authors: [psb]
+categories:
+- kubernetes
+- dev
+---
+
 # `kubectl` - the underappreciated tool for the Kubernetes developer
 
-*It's a trap* - Admiral Ackbar
+> It's a trap
+
+Admiral Ackbar
+
+## `kubectl` - a dev's perspective
+
+For those who have gotten into the world of Kubernetes tooling, `kubectl` remains an essential and perhaps underrated tool, not just in its usage but in how it can inform us even when we are not using it directly (like in a `bash` script) but also in what it can teach us about how to use it to as a guide to when make calls to the Kubernetes API server. The first in this series of articles entry is not a beginner-level entry but it will surely set the tone for more articles down the line.
 
 ## The TL;DR version
 

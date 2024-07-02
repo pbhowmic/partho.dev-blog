@@ -1,6 +1,20 @@
 site_name: Partho's Blog
+site_author: Partho S Bhowmick
+site_url: htts://partho.dev
+site_description: |
+  Partho's blog - all things Kubernetes, dev, Python et al.
+
+theme:
+  name: material
+  features:
+    - navigation.indexes
 nav:
-  - Home: 'index.md'
-  - "kubectl for devs": 'kubectl/kubectl-list.md'
+  - 'index.md'
 watch:
-  - docs/kubectl
+  - docs/posts
+plugins:
+  - blog:
+      blog_dir: .
+      blog_toc: true
+      post_date_format: long
+      authors_file: "{blog}/.authors.yml"
