@@ -8,6 +8,6 @@ build:
 deploy: build
 	firebase deploy --only hosting\:partho-9a092
 
-preview:
+preview: build
 	mkdocs serve
     
