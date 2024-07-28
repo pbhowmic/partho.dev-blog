@@ -84,11 +84,11 @@ slow-growth tumor, there's no rush. We decide to schedule surgery sometime after
 
 ## Interlude
 
-_School is over. The girls attend camp. Surgery is scheduled for July 5<sup>th</sup>. 
-I am not worried about the surgery. I am worried about the pathology report. 
-I arrange a hiking trip to Yosemite with my friend. It's not really about the hiking itself. 
+_School is over. The girls attend camp. Surgery is scheduled for July 5<sup>th</sup>.
+I am not worried about the surgery. I am worried about the pathology report.
+I arrange a hiking trip to Yosemite with my friend. It's not really about the hiking itself.
 Last time I came unglued when the pathology report blindsided me.
-This time I know that I should not be alone if things go awry. 
+This time I know that I should not be alone if things go awry.
 It is set for 6-days post-surgery._
 
 ## Surgery (again)
