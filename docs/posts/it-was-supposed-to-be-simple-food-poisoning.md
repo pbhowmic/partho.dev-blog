@@ -124,7 +124,9 @@ _Saturday, July 13, 2024_: The Vernal & Nevada Falls hike.
 <div class="grid cards" markdown>
 
 - <figure markdown="span">
-![Vernal Falls](../media/it-was-supposed-to-be-simple-food-poisoning/Yosemite-July-13-2024/vernal-falls.jpeg){align=left width="fit"}
+
+![Vernal Falls](../media/it-was-supposed-to-be-simple-food-poisoning/Yosemite-July-13-2024/vernal-falls.jpeg){align=left
+width="fit"}
 <figcaption>Vernal Falls</figcaption>
 </figure>
 - <figure markdown="span">
