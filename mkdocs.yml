@@ -3,17 +3,22 @@ site_author: Partho S Bhowmick
 site_url: htts://partho.dev
 site_description: |
   Partho's blog - all things Kubernetes, dev, Python et al.
-
+copyright: 'Copyright &copy; Partho Bhowmick'
 theme:
   name: material
+  favicon: https://avatars.githubusercontent.com/u/5515525?v=4
+  logo: https://avatars.githubusercontent.com/u/5515525?v=4
   features:
     - navigation.indexes
 nav:
   - 'index.md'
+
 watch:
   - docs/posts
 markdown_extensions:
   - attr_list
+  - toc:
+      permalink: true
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
