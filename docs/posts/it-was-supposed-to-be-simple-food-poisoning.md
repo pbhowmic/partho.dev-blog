@@ -26,7 +26,8 @@ buffaloes. And man did I get trampled!
 I have been divorced a few years now. I share custody of my 3 kids - my 14-year old son and my 11-year old twin
 daughters - with their mother. They alternate weeks living with me and their mother. I don't have family support in town
 and there's too much for a single parent to handle, even if I have the kids every alternate week. Blanca came to work
-for us when the twins were born - like many twins, they were born with some health issues and I needed the heath. She is
+for us when the twins were born - like many twins, they were born with some health issues - and I needed the help. She
+is
 someone I have trusted to take care of my kids for 11 years now.
 
 ## Horses
@@ -57,12 +58,12 @@ on Eva.
 
 ## Thundering herd of water buffaloes
 
-_Friday, February 2, 2024_: Eva makes great progress post-op. By Friday evening, the doctor on call is comfortable
+_Friday, February 2, 2024_: Eva makes great post-surgery progress. By Friday evening, the doctor on call is comfortable
 releasing her. We decide she needs to avoid going back-and-forth between my home and her mother's, so I drop her off at
 her mother's. I go to pick up the dogs from the boarding place before heading home. That's when I get a message from the
 hospital. Pathology report has been posted:  **Appendiceal Neuroendocrine Tumor (ANET)**. I have never felt so cold.
 
-## Act II
+## Who has time for grief?
 
 _Friday, February 2, 2024_: I spend the evening calling my closest friends and howling on the phone for many hours.
 Patience of the saints must have descended upon them to have listened to me for so long. Another message from the
@@ -86,40 +87,44 @@ slow-growth tumor, there's no rush. We decide to schedule surgery sometime after
 
 _School is over. The girls attend camp. Surgery is scheduled for July 5<sup>th</sup>.
 I am not worried about the surgery. I am worried about the pathology report.
+Will they get everything or is there yet another shoe to drop?
 I arrange a hiking trip to Yosemite with my friend. It's not really about the hiking itself.
 Last time I came unglued when the pathology report blindsided me.
-This time I know that I should not be alone if things go awry.
-It is set for 6-days post-surgery._
+This time I know that I should not be alone should I get bad news.
+Surgery is set for 6-days post-surgery._
 
 ## Surgery (again)
 
-_Thursday July 4, 2024_: The kids are with me this week. Happy Independence Day. It's prep day. Antibiotics. Colon
+_Thursday July 4, 2024_: The kids are with me this week. Happy Independence Day. It's prep day for Eva. Antibiotics.
+Colon
 cleanse (it's not pleasant). Anti-emetic for the nausea. A day spent on the can. Screw fireworks.
 
 _Friday July 5, 2024_: Eva checks into the hospital. She is calm. That is until she changes into the hospital gown. She
 starts sobbing. By the time she is in pre-op, she is back to her stoic self. Her mother came soon afterwards. She is to
 stay at the hospital overnight with Eva on this day.
 
-The surgery goes well. I head back home afterwards to the other kids. I am to return the next morning to stay with Eva
-for the next 48-hours.
+The surgery goes well and I head back home afterwards to the other kids. I am to return the next morning to stay with
+Eva for the next 48-hours.
 
 _Sunday, July 7, 2024_: Eva makes better than expected progress and she is discharged early in the evening. This time I
-take her home. Hurricane Beryl is barreling our way and I am underprepared.
+take her home.Meanwhile, Hurricane Beryl has been barreling our way and I am underprepared.
 
 ## Rough Weather
 
 _Monday, July 8, 2024_: Hurricane Beryl hits. The kids are to go over their mother's but the roads are impassable. The
 kids get to stay with me an extra day. We lose power later in the day. Eva's finally bummed: no more iPad.
 
-_Tuesday, July 9, 2024_: The hurricane has passed. Still no power. Their mother finally makes it through and picks them
-up. She has a whole house generator so I know the kids are better off there. I have a small generator and my internet is
-still up so I continue to work.
+_Tuesday, July 9, 2024_: The hurricane has passed. Still no power. It's beginning to get warm and uncomfortable without
+the AC. Their mother finally makes it through and picks them up. She has a whole house generator so I know the kids are
+better off there. I have a small generator and my internet is still up so I continue to work.
 
 _Thursday, July 11, 2024_: Still no power. It's hot and humid already. It is too hot to sleep but I have to take the
-early flight out to Fresno, CA. I have a 6-hour layover at DFW. There I finally get the pathology report: **no evidence
-of tumor** cells. I finally exhaled.
+early flight out to Fresno, CA (that's base camp for the hike). I have a 6-hour layover at DFW. There I finally get the
+pathology report: **no evidence of tumor** cells. I finally exhaled after 5 months.
 
-_Saturday, July 13, 2024_: The Vernal & Nevada Falls hike.
+## Gratitude
+
+_Saturday, July 13, 2024_: We hike the Misty Trail to Vernal & Nevada Falls.
 
 <div class="grid cards" markdown>
 
@@ -136,7 +141,11 @@ width="fit"}
 
 </div>
 
-## Epilogue
+### A special thanks
 
-
+I want to thank my boss at the time, whom I cannot name for reasons that will become clear soon. I want to thank
+him for his support during a trying time, for giving me the grsce, time and space I needed to care for Eva, accompany
+her to her doctors' visits while juggling other parental duties. He is a man of faith and he was called to become a
+missionary by his church, in a part of the world that has been known to be hostile to missionaries. I cannot thank him
+enough.
 
