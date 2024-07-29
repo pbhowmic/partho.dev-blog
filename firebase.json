@@ -4,7 +4,12 @@
         "ignore": [
             "firebase.json",
             "**/.*",
-            "**/node_modules/**"
+            "**/node_modules/**",
+            "**/.venv/**",
+            "**/.idea/**",
+            "**/.github/**",
+            "Pipfile",
+            "Pipfile.lock"
         ],
         "emulators": {
             "hosting": {
