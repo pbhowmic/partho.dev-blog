@@ -141,7 +141,7 @@ _Saturday, July 13, 2024_: We hike the Misty Trail to Vernal & Nevada Falls.
 ### A special thanks
 
 I want to thank my boss at the time, whom I cannot name for reasons that will become clear soon. I want to thank
-him for his support during a trying time, for giving me the grsce, time and space I needed to care for Eva, accompany
+him for his support during a trying time, for giving me the grace, time and space I needed to care for Eva, accompany
 her to her doctors' visits while juggling other parental duties. He is a man of faith and he was called to become a
 missionary by his church, in a part of the world that has been known to be hostile to missionaries. I cannot thank him
 enough.
