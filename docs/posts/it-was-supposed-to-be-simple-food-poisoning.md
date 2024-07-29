@@ -127,11 +127,8 @@ pathology report: **no evidence of tumor** cells. I finally exhaled after 5 mont
 _Saturday, July 13, 2024_: We hike the Misty Trail to Vernal & Nevada Falls.
 
 <div class="grid cards" markdown>
-
 - <figure markdown="span">
-
-![Vernal Falls](../media/it-was-supposed-to-be-simple-food-poisoning/Yosemite-July-13-2024/vernal-falls.jpeg){align=left
-width="fit"}
+![Vernal Falls](../media/it-was-supposed-to-be-simple-food-poisoning/Yosemite-July-13-2024/vernal-falls.jpeg)
 <figcaption>Vernal Falls</figcaption>
 </figure>
 - <figure markdown="span">
@@ -148,4 +145,3 @@ him for his support during a trying time, for giving me the grsce, time and spac
 her to her doctors' visits while juggling other parental duties. He is a man of faith and he was called to become a
 missionary by his church, in a part of the world that has been known to be hostile to missionaries. I cannot thank him
 enough.
-
