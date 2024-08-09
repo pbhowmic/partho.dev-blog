@@ -1,0 +1,6 @@
+@startmindmap
+!include mindmap_base.css
+!include k8s.pumlt
+!include k8s_logging.pumlt
+@endmindmap
+

@@ -29,3 +29,7 @@ plugins:
       blog_toc: true
       post_date_format: long
       authors_file: "{blog}/.authors.yml"
+  - plantuml:
+      puml_url: http://127.0.0.1:9000
+      num_workers: 8
+

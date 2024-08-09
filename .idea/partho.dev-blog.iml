@@ -4,6 +4,8 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/site" />
+      <excludeFolder url="file://$MODULE_DIR$/.firebase" />
+      <excludeFolder url="file://$MODULE_DIR$/docs/posts/diagrams/out" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.12 (partho.dev-blog)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

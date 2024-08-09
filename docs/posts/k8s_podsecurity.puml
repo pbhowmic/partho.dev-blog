@@ -1,0 +1,11 @@
+@startmindmap
+!include mindmap_base.css
+<style>
+rootNode {
+    LineThickness 3.0
+}
+</style>
+
+!include k8s_locked.pumlt
+!include k8s_logging.pumlt
+@endmindmap

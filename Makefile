@@ -1,8 +1,13 @@
-.PHONY: all deploy preview build
+.PHONY: all deploy preview build plantuml
+
+ROOT_DIR:=$(realpath $(shell dirname $(firstword $(MAKEFILE_LIST))))
 
 all: build deploy
 
-build:
+plantuml:
+	plantuml $(ROOT_DIR)/docs/posts/*.puml -o $(ROOT_DIR)/docs/media
+
+build: plantuml
 	mkdocs build
 
 deploy: build
@@ -10,4 +15,4 @@ deploy: build
 
 preview: build
 	mkdocs serve
-    
+

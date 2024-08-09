@@ -1,0 +1,5 @@
+@startmindmap(id=k8s)
+!include mindmap_base.css
+!include k8s.pumlt
+@endmindmap
+

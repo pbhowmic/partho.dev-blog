@@ -1,0 +1,12 @@
+<style>
+node {
+    Padding 12
+    Margin 3
+    HorizontalAlignment center
+    LineColor blue
+    LineThickness 1.0
+    BackgroundColor gold
+    RoundCorner 40
+    MaximumWidth 100
+}
+</style>

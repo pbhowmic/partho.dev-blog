@@ -1,0 +1,8 @@
+@startmindmap
+!include k8s_podsecurity.puml
+left side
+**:==Container sources
+----
+<img:docker.png> <img:jfrog-logo.png>
+;
+@endmindmap
