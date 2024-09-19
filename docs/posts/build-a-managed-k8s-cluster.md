@@ -5,6 +5,7 @@ categories:
   - kubernetes
   - cloud
 ---
+:construction_worker: _** This is a work in progress**_
 
 # Build Me A Cluster - The Managed Edition
 
@@ -68,4 +69,4 @@ identity. Workload identity is the way forward and it requires granting IAM role
 can create Kubernetes service accounts that give access to their workloads access to cloud resources that their
 workloads require. 
 
-# 
+

@@ -1,0 +1,14 @@
+@startmindmap
+!include k8s_image_src.puml
+left side
+**://Access methods//
+----
+<img:openid.png>
+;
+***:==Cloud resources
+----
+<img:pgsql.png>
+<img:mysql.png>
+<img:s3.png>
+;
+@endmindmap
